@@ -16,7 +16,7 @@ This project was developed as part of an Artificial Intelligence module at NUS f
   - Aimed to enhance insights and achieve broader model usability across diverse, unsorted datasets.
 
 - **Model Testing:**
-  - Achieved high accuracy on the test dataset, demonstrating the effectiveness of the preprocessing and modeling techniques used.
+  - Achieved high accuracy (over 80%) on the test dataset, demonstrating the effectiveness of cleaning, preprocessing and modelling techniques. 
 
 ## Technologies Used
 
